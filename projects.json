@@ -10,5 +10,17 @@
       "live": "https://futbolreviews4u.herokuapp.com/",
       "git": "https://github.com/xcarrillo1/xavier-project2",
       "image": "https://i.imgur.com/Aixkp09.png?1"
+    },
+    {
+      "name": "PhillyDilly",
+      "live": "https://phillydilly.netlify.app/about",
+      "git": "https://github.com/xcarrillo1/phillydilly-frontend",
+      "image": "https://i.imgur.com/TGEsRaa.png?1"
+    },
+    {
+      "name": "YourSeats",
+      "live": "https://yourseats.netlify.app/",
+      "git": "https://github.com/xcarrillo1/capstone-frontend",
+      "image": "https://i.imgur.com/xEIOztL.png?1"
     }
   ]
